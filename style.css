@@ -1,0 +1,54 @@
+body {
+   font-family: Arial, sans-serif;
+}
+
+header {
+   text-align: center;
+}
+
+nav ul {
+   list-style-type: none;
+}
+
+nav li {
+   display: inline;
+   margin: 0 10px;
+}
+
+section {
+   padding: 20px;
+}
+
+.application img {
+   max-width: 100%;
+}
+
+.application:first-child img {
+   width: 100%;
+}
+
+header img {
+   max-width: 200px;
+   height: 200px;
+
+}
+
+#contact {
+   border-color: black;
+   border: 5px solid;
+}
+
+#email {
+   border: 3px solid;
+
+   border-color: black;
+   background-color: lightgrey;
+   font-size: large;
+   font-weight: bolder;
+   width: 235px;
+   height: 30px;
+}
+
+footer p {
+   text-align: center;
+}
