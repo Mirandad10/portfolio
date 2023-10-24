@@ -56,3 +56,23 @@ header img {
 footer p {
    text-align: center;
 }
+
+section img {
+   max-width: 350px;
+   height: 350px;
+}
+
+#project1 {
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+#project2 {
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+#description {
+   font-size: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
